@@ -3,13 +3,12 @@
 
 - 📫 How to reach me **alphatainted3@gmail.com**
 
-- ⚡ Fun fact **i like playing mobile legends,minecraft,terraria and stardew valley**
+- ⚡ Fun fact **i like playing video games like mobile legends,minecraft,terraria and stardew valley**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@sythe756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sythe756" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingwithash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithash" height="30" width="40" /></a>
-<a href="https://discord.gg/sythe#8509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sythe#8509" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sythe756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sythe756" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_1xiMR0vcl4NwIj_66ENSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
