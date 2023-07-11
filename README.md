@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A passionate frontend developer from Mauritius</h3>
+<h3 align="center">A passionate  developer from Mauritius</h3>
 
 - 📫 How to reach me **alphatainted3@gmail.com**
 
